@@ -1,0 +1,29 @@
+# Compiled binaries
+
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+
+# Debug files
+
+*.dSYM/
+*.stackdump
+
+# Editors
+
+.vscode/
+.idea/
+
+# Vim
+
+*.swp
+*.swo
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
